@@ -4,7 +4,7 @@
 <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1610016555828.png" height="126px" width="126px">
 
 
-## I'm Senior Full-Stack Software Engineer, Ruby/Javascript Developer, Freelancer, Contractor!
+## I'm Senior Full-Stack Software Engineer, Ruby/Javascript Developer and Freelancer
 
 - 💪 I’m looking to collaborate with start-ups
 - ⭐️ 2021 Goals: Contribute more to Open Source projects
