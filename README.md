@@ -6,7 +6,7 @@
 
 ## I'm Senior Full-Stack Software Engineer, Ruby/Javascript Developer and Freelancer
 
-- 💪 I’m looking to collaborate with start-ups
+- 🚀 I’m looking to collaborate with start-ups
 - ⭐️ 2021 Goals: Contribute more to Open Source projects
 - 🎸 Fun fact: I love to draw and play guitar
 
