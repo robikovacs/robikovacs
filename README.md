@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Robert Kovacs 👋
 
-<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1610016555828.png" height="26px" width="26px">
+<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1610016555828.png" height="126px" width="126px">
 
 
 ## I'm Senior Full-Stack Software Engineer, Ruby/Javascript Developer, Freelancer, Contractor!
