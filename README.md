@@ -1,16 +1,33 @@
 
 ### Hi there, I'm Robert Kovacs 👋
 
-<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1610016555828.png" height="126px" width="126px">
+<img src="https://ci3.googleusercontent.com/proxy/8Zt1YjJwJxDNux9u9bzOmp5BFMGiEqPHUoxgsfHQjVOVqzlv3QgeKNnEyNm1wRSTFtGtnI5M2z6FRrqeL1B0VzJH4_RfUg-ha85A0SNH5tCjqX3xCIDRc_hZsK-EDa6cy2CWSKyP=s0-d-e1-ft#https://octocat-generator-assets.githubusercontent.com/my-octocat-1610192820219.png" height="126px" width="126px">
 
+👨🏻‍💻 I am a driven software engineer with more than 6 years of experience in architecting, designing and implementing software solutions for online businesses worldwide. Always eager to learn more, with an outside-the-box mindset that helps me find creative solutions to challenges and develop cost-saving solutions.
 
-## I'm Senior Full-Stack Software Engineer, Ruby/Javascript Developer and Freelancer
+My key skills:
 
-- 🚀 I’m looking to collaborate with start-ups
-- ⭐️ 2021 Goals: Contribute more to Open Source projects
-- 🎸 Fun fact: I love to draw and play guitar
+❇️ Back-end:
 
-### Connect with me:
+* Ruby, Ruby on Rails, Javascript/Typescript, Node.js
+* PostgreSQL, ActiveRecord
+* Redis, Sidekiq
+* Docker, Azure, Google Cloud
+
+❇️ Front-end:
+* Modern Javascript, Typescript
+* React.js, Vue.js, Gatsby, Next.js
+* GraphQL
+
+🌍 Interested in remote work.
+
+⚡️ Drop me a message if you think my expertise could help your organization! 
+
+📬 contact@robikovacs.dev
+
+💬 rob.kov (Skype)  
+
+### Connect with me
 
 [<img align="left" alt="robikovacs.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -18,7 +35,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
