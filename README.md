@@ -1,5 +1,5 @@
 
-### Hi there, I'm Robert Kovacs 👋
+### 👋 Hi there, I'm Robert Kovacs 
 
 <img src="https://ci3.googleusercontent.com/proxy/8Zt1YjJwJxDNux9u9bzOmp5BFMGiEqPHUoxgsfHQjVOVqzlv3QgeKNnEyNm1wRSTFtGtnI5M2z6FRrqeL1B0VzJH4_RfUg-ha85A0SNH5tCjqX3xCIDRc_hZsK-EDa6cy2CWSKyP=s0-d-e1-ft#https://octocat-generator-assets.githubusercontent.com/my-octocat-1610192820219.png" height="126px" width="126px">
 
