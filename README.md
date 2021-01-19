@@ -3,7 +3,7 @@
 
 <img src="https://ci3.googleusercontent.com/proxy/8Zt1YjJwJxDNux9u9bzOmp5BFMGiEqPHUoxgsfHQjVOVqzlv3QgeKNnEyNm1wRSTFtGtnI5M2z6FRrqeL1B0VzJH4_RfUg-ha85A0SNH5tCjqX3xCIDRc_hZsK-EDa6cy2CWSKyP=s0-d-e1-ft#https://octocat-generator-assets.githubusercontent.com/my-octocat-1610192820219.png" height="126px" width="126px">
 
-👨🏻‍💻 I am a driven software engineer with more than 6 years of experience in architecting, designing and implementing software solutions for online businesses worldwide. Always eager to learn more, with an outside-the-box mindset that helps me find creative solutions to challenges and develop cost-saving solutions.
+👨🏻‍💻 I am a driven software engineer with over six years of experience in architecting, designing and implementing software for online businesses worldwide. Always eager to learn more, with an outside-the-box mindset that helps me find creative and cost-saving solutions to real-life problems.
 
 My key skills:
 
