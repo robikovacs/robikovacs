@@ -1,31 +1,31 @@
+### 👋 Hi there, I'm Robert Kovacs
 
-### 👋 Hi there, I'm Robert Kovacs 
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="126px" width="126px">
 
-<img src="https://ci3.googleusercontent.com/proxy/8Zt1YjJwJxDNux9u9bzOmp5BFMGiEqPHUoxgsfHQjVOVqzlv3QgeKNnEyNm1wRSTFtGtnI5M2z6FRrqeL1B0VzJH4_RfUg-ha85A0SNH5tCjqX3xCIDRc_hZsK-EDa6cy2CWSKyP=s0-d-e1-ft#https://octocat-generator-assets.githubusercontent.com/my-octocat-1610192820219.png" height="126px" width="126px">
-
-👨🏻‍💻 I am a driven software engineer with over six years of experience in architecting, designing and implementing software for online businesses worldwide. Always eager to learn more, with an outside-the-box mindset that helps me find creative and cost-saving solutions to real-life problems.
+I am a driven software engineer with over six years of experience in architecting, designing and implementing software for online businesses worldwide. Always eager to learn more, with an outside-the-box mindset that helps me find creative and cost-saving solutions to real-life problems.
 
 My key skills:
 
 ❇️ Back-end:
 
-* Ruby, Ruby on Rails, Javascript/Typescript, Node.js
-* PostgreSQL, ActiveRecord
-* Redis, Sidekiq
-* Docker, Azure, Google Cloud
+- Ruby, Ruby on Rails, Javascript/Typescript, Node.js
+- PostgreSQL, ActiveRecord
+- Redis, Sidekiq
+- Docker, Azure, Google Cloud
 
 ❇️ Front-end:
-* Modern Javascript, Typescript
-* React.js, Vue.js, Gatsby, Next.js
-* GraphQL
+
+- Modern Javascript, Typescript
+- React.js, Vue.js, Gatsby, Next.js
+- GraphQL
 
 🌍 Interested in remote work.
 
-⚡️ Drop me a message if you think my expertise could help your organization! 
+⚡️ Drop me a message if you think my expertise could help your organization!
 
 📬 contact@robikovacs.dev
 
-💬 rob.kov (Skype)  
+💬 rob.kov (Skype)
 
 ### Connect with me
 
