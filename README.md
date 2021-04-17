@@ -4,7 +4,7 @@
 
 I am a driven software engineer with over six years of experience in architecting, designing and implementing software for online businesses worldwide. Always eager to learn more, with an outside-the-box mindset that helps me find creative and cost-saving solutions to real-life problems.
 
-My key skills:
+#### My key skills
 
 ❇️ Back-end:
 
@@ -25,7 +25,7 @@ My key skills:
 
 📬 contact@robikovacs.dev
 
-### Languages and Tools
+#### Languages and Tools
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
