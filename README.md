@@ -6,14 +6,14 @@ I am a driven software engineer with over six years of experience in architectin
 
 #### My key skills
 
-❇️ Back-end:
+⚙️ Back-end
 
 - Ruby, Ruby on Rails, Javascript/Typescript, Node.js
 - PostgreSQL, ActiveRecord
 - Redis, Sidekiq
 - Docker, Azure, Google Cloud
 
-❇️ Front-end:
+💎 Front-end
 
 - Modern Javascript, Typescript
 - React.js, Vue.js, Gatsby, Next.js
