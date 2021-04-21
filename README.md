@@ -6,24 +6,24 @@ I am a driven software engineer with over six years of experience in architectin
 
 #### My key skills
 
-⚙️ Back-end
+⚙️  Back-end
 
 - Ruby, Ruby on Rails, Javascript/Typescript, Node.js
 - PostgreSQL, ActiveRecord
 - Redis, Sidekiq
 - Docker, Azure, Google Cloud
 
-💎 Front-end
+💎  Front-end
 
 - Modern Javascript, Typescript
 - React.js, Vue.js, Gatsby, Next.js
 - GraphQL
 
-🌍 Interested in remote work.
+🌍  Interested in remote work.
 
-⚡️ Drop me a message if you think my expertise could help your organization!
+⚡️  Drop me a message if you think my expertise could help your organization!
 
-📬 contact@robikovacs.dev
+📬  contact@robikovacs.dev
 
 #### Languages and Tools
 
