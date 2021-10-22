@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Robert Kovacs
+### 👋 Hi, I'm Robert Kovacs
 
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="126px" width="126px">
 
