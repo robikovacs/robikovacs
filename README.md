@@ -21,9 +21,7 @@ I am a driven software engineer with over six years of experience in architectin
 
 🌍  Interested in remote work.
 
-⚡️  Drop me a message if you think my expertise could help your organization!
-
-📬  contact@robikovacs.dev
+⚡️  [Book a meeting](https://cal.com/robikovacs/30min) if you think my expertise could help your organization!
 
 #### Languages and Tools
 
