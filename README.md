@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Robert Kovacs
 
-I am a driven software engineer with over six years of experience in architecting, designing and implementing software for online businesses worldwide. Always eager to learn more, with an outside-the-box mindset that helps me find creative and cost-saving solutions to real-life problems.
+I am a driven software engineer with over 7️⃣ years of experience in architecting, designing and implementing software for online businesses worldwide. Always eager to learn more, with an outside-the-box mindset that helps me find creative and cost-saving solutions to real-life problems.
 
 #### My key skills
 
