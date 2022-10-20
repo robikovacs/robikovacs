@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Robert Kovacs
 
-I am a driven software engineer with over 7️⃣ years of experience in architecting, designing and implementing software for online businesses worldwide. Always eager to learn more, with an outside-the-box mindset that helps me find creative and cost-saving solutions to real-life problems.
+I’m an experienced, fast-moving product-focused software engineer who loves ideating on and implementing new features from 0 to 1.
 
 #### My key skills
 
@@ -14,7 +14,7 @@ I am a driven software engineer with over 7️⃣ years of experience in archite
 💎  Front-end
 
 - Modern Javascript, Typescript
-- React.js, Vue.js, Gatsby, Next.js
+- React.js, Next.js, Storybook, Tailwind
 - GraphQL
 
 🌍  Interested in remote work.
