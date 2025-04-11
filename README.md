@@ -4,15 +4,15 @@ Software engineer with a knack for turning complex problems into elegant Ruby so
 
 ### Projects that kept me busy
 
-- **FirstPromoter.com**: Engineered affiliate platform tracking $30M+ monthly revenue across 7000+ programs
-- **Room Inc**: Engineered real-time IoT platform that transformed office space utilization
-- **Partbot**: Revolutionized automotive parts sales with AI-powered inventory management
-- **Net-a-Porter**: Architected micro frontend checkout system for luxury fashion giant
-- **Wolfpack-Digital**: Led development of innovative fintech and healthcare solutions
+- **[First Promoter](https://firstpromoter.com)**: Engineered affiliate platform tracking $30M+ monthly revenue across 7000+ programs
+- **[ROOM Inc.](https://room.com)**: Engineered real-time IoT platform that transformed office space utilization
+- **[Partbot](https://use.partbot.io)**: Revolutionized automotive parts sales with custom e-commerce integrations
+- **[Net-a-Porter](https://net-a-porter.com)**: Architected micro frontend checkout system for luxury fashion giant
+- **[Wolfpack-Digital](https://wolfpack-digital.com)**: Led development of innovative transportation, fintech and healthcare solutions
 
 ### Find me
 
-- [Portfolio](https://robikovacs.com)
+- [Portfolio](https://robikovacs.github.io)
 - [Let's talk](https://cal.com/robikovacs)
 - [LinkedIn](https://www.linkedin.com/in/rikovacs/)
 
